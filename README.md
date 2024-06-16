@@ -11,7 +11,11 @@ Technologies used :
  To Run The Project :
 
 Clone the Repository : git clone https://github.com/PrabhaCodz/Blog-App.
+
+
 go to command prompt 
 npm install or i 
+
+
 npm start
 
