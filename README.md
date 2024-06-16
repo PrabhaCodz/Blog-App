@@ -1,12 +1,19 @@
 ## PROJECT-07
 ## Blog-App
 Technologies used :
+
  React
+ 
  Vite 
+ 
  Html
+ 
  Css
+ 
  Scss
+ 
  JavaScript
+ 
 
  To Run The Project :
 
